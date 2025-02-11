@@ -2,5 +2,5 @@
 
 ## How to use
 
-Write the input on the first textarea and lick on submit button.
+Write the input on the first textarea and click on submit button.
 Result will be presented in the output textarea.
